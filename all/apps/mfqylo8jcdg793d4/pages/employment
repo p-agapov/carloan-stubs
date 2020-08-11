@@ -1,0 +1,33 @@
+{
+    "companyName": "Собака и Ко",
+    "taxCode": "234332",
+    "address": {
+        "country": "Россия",
+        "countryCode": "cm.Country.RUS",
+        "zip": "333456",
+        "regionType": "обл.",
+        "region": "Московская",
+        "regionCode": "cm.Region.Moscow",
+        "districtType": "р-н",
+        "district": "Кировский",
+        "cityType": "г",
+        "city": "Москва",
+        "townType": "c.",
+        "town": "Москва",
+        "streetType": "ул.",
+        "street": "Кузнецкий мост",
+        "house": "1",
+        "housing": "1",
+        "building": "1",
+        "apartment": "1",
+        "addressString": "Россия, г.Саратов, ул.Московская, д.2, кв.55"
+    },
+    "phoneNumber": "79879871265",
+    "addNumber": "401021",
+    "orgActivityScope": "cm.PersonEmploymentActivityKind.Army",
+    "numberOfEmpl": "cm.OrganizationEmployeeNumber.100",
+    "totalEmplTime": "cm.PersonLabourExperience.3-10",
+    "currentEmplTime": "cm.PersonWorkExperience.GE12",
+    "position": "Зверюга",
+    "positionCategory": "cm.PersonJobTitleCode.MilitaryMan"
+}

@@ -1,0 +1,30 @@
+{
+    "address": {
+		"addressString": "г.Москва, ул.Её величества Шаурмы, д.2",
+        "country": "Россия",
+        "countryCode": "cm.Country.RUS",
+        "zip": "412412",
+        "regionType": "обл.",
+        "region": "Московская",
+        "regionCode": "cm.Region.Moscow",
+        "districtType": "р-н",
+        "district": "Кировский",
+        "cityType": "г",
+        "city": "Москва",
+        "townType": "c.",
+        "town": "Москва",
+        "streetType": "ул.",
+        "street": "Кузнецкий мост",
+        "house": "1",
+        "housing": "1",
+        "building": "1",
+        "apartment": "1"
+    },
+	"marriageStatus": "cm.MaritalStatus.Divorced",
+    "education": "cm.Education.HigherEducation",
+    "changeName": null,
+    "prevLastName": null,
+    "prevFirstName": null,
+    "prevMiddleName": null,
+    "visibleChangeName": false
+}
